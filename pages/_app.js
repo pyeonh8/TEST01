@@ -15,7 +15,7 @@ export default function App({ Component, pageProps }) {
     <>
       <Head>
         <style>{`html {font-family: ${notoSansKR.style.fontFamily}, sans-serif;}`}</style>
-        <title>Codeitmall</title>
+        <title>Codeitmall+++</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
